@@ -22,12 +22,12 @@
 </p>
 
 ## 📂 Featured Projects
-- [E-commerce REST API](https://github.com/toantran/ecommerce-api) - Node.js + Express + MongoDB
+- [Website for Volunteer System Frontend](https://github.com/Trantoan12022004/React_ctes) - Reactjs
+- [Website for Volunteer Backend](https://github.com/Trantoan12022004/Nodejs_ctes) - Nodejs + Express + MySQL 
 - [Portfolio Website](https://github.com/toantran/portfolio)
 - [Face Recognition System](https://github.com/Trantoan12022004/Face_Recognize) - Python + OpenCV face detection & recognition with GUI
 - [CGIFT Home - Website for Volunteer System](https://github.com/Trantoan12022004/CGIFT_home) - React.js + Node.js + MySQL system for managing community help
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/toantran)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook)](https://facebook.com/anhtonton.1202)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Trantoan12022004)
