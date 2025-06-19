@@ -30,7 +30,7 @@ As a final-year IT student with a clear orientation to become a Web Developer, I
 - [Website for Volunteer System - Backend](https://github.com/Trantoan12022004/Nodejs_ctes) – Node.js + Express + MySQL
 - [Personal Portfolio Website](https://github.com/toantran/portfolio)
 - [Face Recognition System](https://github.com/Trantoan12022004/Face_Recognize) – Python + OpenCV + GUI
-- [CGIFT Home - Community Help Platform](https://github.com/Trantoan12022004/CGIFT_home) – React.js + Node.js + MySQL
+- [CGIFT Home - Community Help Platform](https://github.com/Trantoan12022004/CGIFT_home) – HTML + CSS + Javascript
 
 ## 📫 Connect with me
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook)](https://facebook.com/anhtonton.1202)
