@@ -1,3 +1,4 @@
+## 🇻🇳 BẢN TIẾNG VIỆT | [🇺🇸 English Version »](#-english-version)
 <h1 align="center">Hi 👋, I'm Toàn Trần</h1>
 <h3 align="center">Một lập trình viên Backend đầy đam mê đến từ Việt Nam 🇻🇳</h3>
 
@@ -36,6 +37,8 @@ Là một sinh viên năm cuối ngành Công nghệ Thông tin với định h�
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook)](https://facebook.com/anhtonton.1202)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Trantoan12022004)
 
+
+## 🇺🇸 ENGLISH VERSION | [🇻🇳 Quay về bản Tiếng Việt »](#-bản-tiếng-việt)
 <h1 align="center">Hi 👋, I'm Toàn Trần</h1>
 <h3 align="center">A passionate Backend Developer from Vietnam 🇻🇳</h3>
 
