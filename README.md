@@ -7,7 +7,7 @@ As a final-year IT student with a clear orientation to become a Web Developer, I
 ## 🎓 Education
 **Hanoi University of Science and Technology (HUST)**  
 2022 – 2025 | IT-Vietnam Japan Program  
-- GPA: 2.44  
+- GPA: 3.04  
 - Top 10 – "Young Innovation Contest" (2024)  
 - 2nd Prize – “SV Startup Competition” (2025)
 
